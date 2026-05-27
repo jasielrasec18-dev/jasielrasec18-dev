@@ -96,15 +96,6 @@ evoluir tecnicamente e contribuir com a equipe.
 />
 <img
     align="left" 
-    alt="Nodejs" 
-    title="Nodejs"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img
-    align="left" 
     alt="PostgreSQL" 
     title="PostgreSQL"
     width="40px" 
