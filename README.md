@@ -110,22 +110,22 @@ evoluir tecnicamente e contribuir com a equipe.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"       
 />
-
 <br/>
 <br/>
 
 ### 📊 Estatísticas
 
 <p>
+  <a href="https://github.com/jasielrasec18-dev">
   <img 
     align="left" 
     width="48%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=murilodemarco&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=86400"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=jasielrasec18-dev&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=86400"
   />
 
   <img 
     align="left" 
     height="200"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=murilodemarco&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jasielrasec18-dev&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
   />
 </p>
