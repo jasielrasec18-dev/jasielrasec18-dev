@@ -13,7 +13,6 @@ Atualmente venho criando projetos focados em desenvolvimento Front-end, automaç
 Aqui no GitHub compartilho meus projetos, estudos e experiências práticas, sempre buscando evoluir como desenvolvedor e construir soluções que unem tecnologia, performance e criatividade.
 
 ## 🎓Formação
-- 🎓 Análise e Desenvolvimento de Sistemas    
 - 🎓 Desenvolvimento Web Full Stack
 
 ## 📈 Objetivo
