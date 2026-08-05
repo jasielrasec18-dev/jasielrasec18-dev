@@ -1,14 +1,12 @@
 # 👋 Olá, eu sou o Jasiel Rasec!
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas 
-
-🚀 Desenvolvedor Full Stack em formação
+🚀 Desenvolvedor Full Stack
 
 📍 Petrolina - PE  
 
 
 ## 🧠 Sobre mim
-Olá! Me chamo Jasiel Rasec e sou Desenvolvedor Full Stack em transição de carreira para a área de Tecnologia, atualmente cursando Análise e Desenvolvimento de Sistemas e o Curso de extensão universitária na Dev em Dobro - DevQuest 2.0
+Olá! Me chamo Jasiel Rasec e sou Desenvolvedor Full Stack em transição de carreira para a área de Tecnologia.
 
 Atualmente venho criando projetos focados em desenvolvimento Front-end, automações inteligentes e experiências digitais modernas utilizando tecnologias como JavaScript, TypeScript, React, Tailwind CSS, Node.js e n8n.
 
