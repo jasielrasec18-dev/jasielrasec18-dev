@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou o Jasiel Rasec!
+👋 Olá, eu sou o Jasiel Rasec!
 
-🚀 Desenvolvedor Full Stack
+🖥 Desenvolvedor Full Stack 💻
 
 📍 Petrolina - PE  
 
@@ -12,11 +12,11 @@ Atualmente venho criando projetos focados em desenvolvimento Front-end, automaç
 
 Aqui no GitHub compartilho meus projetos, estudos e experiências práticas, sempre buscando evoluir como desenvolvedor e construir soluções que unem tecnologia, performance e criatividade.
 
-## 🎓Formação
-- 🎓 Desenvolvimento Web Full Stack
+## 🎓Formações
+- 🎓 Desenvolvimento Web Full Stack (Em andamento)
 
 ## 📈 Objetivo
-Busco minha primeira oportunidade como desenvolvedor (estágio ou júnior), onde eu possa aplicar meus conhecimentos, 
+Busco minha primeira oportunidade como desenvolvedor júnior, onde eu possa aplicar meus conhecimentos, 
 evoluir tecnicamente e contribuir com a equipe.
 
 
@@ -110,19 +110,3 @@ evoluir tecnicamente e contribuir com a equipe.
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <a href="https://github.com/jasielrasec18-dev">
-  <img 
-    align="left" 
-    width="48%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=jasielrasec18-dev&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=86400"
-  />
-
-  <img 
-    align="left" 
-    height="200"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jasielrasec18-dev&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
-  />
-</p>
