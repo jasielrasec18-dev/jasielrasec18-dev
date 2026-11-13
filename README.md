@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://jasielrasec18-dev-portfolio-jasiel-mu.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-0d1117?style=for-the-badge&logo=vercel&logoColor=00ffea" alt="Portfólio"/></a>
+  <a href="https://portfolio-jasiel-rasec-2.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-0d1117?style=for-the-badge&logo=vercel&logoColor=00ffea" alt="Portfólio"/></a>
   <a href="https://www.linkedin.com/in/jasielrasec-dev/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ff2efc" alt="LinkedIn"/></a>
   <a href="mailto:jasielrasec18@gmail.com"><img src="https://img.shields.io/badge/E--mail-0d1117?style=for-the-badge&logo=gmail&logoColor=cc66ff" alt="E-mail"/></a>
 </p>
